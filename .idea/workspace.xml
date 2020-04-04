@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="293251fe-ea3e-4ad7-9327-d914a5b97ab1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/Tic-Tac-Toe/task">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Tic-Tac-Toe" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Tic-Tac-Toe" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZuAZDIp4cUX9vd93qLa5GW9gV9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Gradle.Tic-Tac-Toe:Tic-Tac-Toe:task [test]">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Check_sudoku_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tic-Tac-Toe:Tic-Tac-Toe:task [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Tic-Tac-Toe/task" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tic-Tac-Toe:Tic-Tac-Toe:task [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Tic-Tac-Toe/task" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tic-Tac-Toe:Tic-Tac-Toe:task [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Tic-Tac-Toe/task" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tic-Tac-Toe:Tic-Tac-Toe:task [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Tic-Tac-Toe/task" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tic-Tac-Toe:Tic-Tac-Toe:task [test]" />
+        <item itemvalue="Gradle.Tic-Tac-Toe:Tic-Tac-Toe:task [clean]" />
+        <item itemvalue="Gradle.Tic-Tac-Toe:Tic-Tac-Toe:task [build]" />
+        <item itemvalue="Gradle.Tic-Tac-Toe:Tic-Tac-Toe:task [run]" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="293251fe-ea3e-4ad7-9327-d914a5b97ab1" name="Default Changelist" comment="" />
+      <created>1585678658724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585678658724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1585956876255">
+      <screen x="3840" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1536.834/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585956876255" />
+    <state width="1878" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585791199583" />
+    <state width="1492" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585704544721" />
+    <state width="1878" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585811376165" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1585956876255">
+      <screen x="3840" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1536.834/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585956876255" />
+    <state width="1878" height="352" key="GridCell.Tab.0.center/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585791199582" />
+    <state width="1492" height="324" key="GridCell.Tab.0.center/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585704544721" />
+    <state width="1878" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585811376165" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1585956876255">
+      <screen x="3840" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1536.834/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585956876255" />
+    <state width="1878" height="352" key="GridCell.Tab.0.left/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585791199582" />
+    <state width="1492" height="324" key="GridCell.Tab.0.left/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585704544721" />
+    <state width="1878" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585811376165" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1585956876255">
+      <screen x="3840" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1536.834/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585956876255" />
+    <state width="1878" height="352" key="GridCell.Tab.0.right/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585791199583" />
+    <state width="1492" height="324" key="GridCell.Tab.0.right/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585704544721" />
+    <state width="1878" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585811376165" />
+    <state width="1878" height="352" key="GridCell.Tab.1.bottom" timestamp="1585791199583">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585791199583" />
+    <state width="1492" height="324" key="GridCell.Tab.1.bottom/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585704544721" />
+    <state width="1878" height="352" key="GridCell.Tab.1.center" timestamp="1585791199583">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="352" key="GridCell.Tab.1.center/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585791199583" />
+    <state width="1492" height="324" key="GridCell.Tab.1.center/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585704544721" />
+    <state width="1878" height="352" key="GridCell.Tab.1.left" timestamp="1585791199583">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="352" key="GridCell.Tab.1.left/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585791199583" />
+    <state width="1492" height="324" key="GridCell.Tab.1.left/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585704544721" />
+    <state width="1878" height="352" key="GridCell.Tab.1.right" timestamp="1585791199583">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1878" height="352" key="GridCell.Tab.1.right/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585791199583" />
+    <state width="1492" height="324" key="GridCell.Tab.1.right/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585704544721" />
+    <state x="356" y="0" width="994" height="1050" key="SettingsEditor" timestamp="1585781545099">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="356" y="0" width="994" height="1050" key="SettingsEditor/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585781545099" />
+    <state x="4196" y="160" key="SettingsEditor/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585678714933" />
+    <state x="4521" y="281" width="543" height="524" key="StructurePopup" timestamp="1585951544368">
+      <screen x="3840" y="0" width="1920" height="1080" />
+    </state>
+    <state x="4521" y="281" width="543" height="524" key="StructurePopup/0.0.1536.834/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585951544368" />
+    <state x="534" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1585950681669">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="534" y="281" key="com.intellij.ide.util.TipDialog/0.0.1536.834/3840.0.1920.1080@0.0.1536.834" timestamp="1585950681669" />
+    <state x="668" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585792000111" />
+    <state x="4508" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585762531051" />
+    <state x="537" y="261" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585779811061">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="537" y="261" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585779811061" />
+    <state x="4496" y="138" width="607" height="804" key="find.popup" timestamp="1585703427925">
+      <screen x="3840" y="0" width="1920" height="1080" />
+    </state>
+    <state x="4496" y="138" width="607" height="804" key="find.popup/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585703427925" />
+    <state x="385" y="146" key="new project wizard" timestamp="1585792394537">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="385" y="146" key="new project wizard/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585792394537" />
+    <state x="4456" y="250" key="run.anything.popup" timestamp="1585956748411">
+      <screen x="3840" y="0" width="1920" height="1080" />
+    </state>
+    <state x="4456" y="250" key="run.anything.popup/0.0.1536.834/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585956748411" />
+    <state x="522" y="230" width="672" height="660" key="search.everywhere.popup" timestamp="1585773059420">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="522" y="230" width="672" height="660" key="search.everywhere.popup/0.0.1920.1050/3840.0.1920.1080@0.0.1920.1050" timestamp="1585773059420" />
+    <state x="4360" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/3840.0.1920.1080@3840.0.1920.1080" timestamp="1585703491265" />
+  </component>
+</project>
